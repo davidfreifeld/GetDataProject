@@ -1,2 +1,2 @@
 # GetDataProject
-The course project submission for Getting and Cleaning Data at Johns Hopkins on Coursera
+The goal of this assignment is to create a tidy data set summarizing the data from the UCI HAR study. The script that runs the analysis is contained in run_analysis.R. To be run, the script requires that the "UCI HAR Dataset" folder containing the test and train folders is present in the working directory. The code book describing the analysis is in CodeBook.md. Finally, the output file (the tidy dataset) is called "wearables_mean_summary.txt"
